@@ -6,9 +6,9 @@ import "./components/Bike.css";
 
 function App() {
   const [bikes, setBikes] = useState([
-    { id: 11, image: "226908.jpg", brand: "Yamaha", model: "FZ", year: "2018" },
-    { id: 12, image: "226908.jpg", brand: "Honda", model: "CBR", year: "2021" },
-    { id: 13, image: "226908.jpg", brand: "Bajaj", model: "Pulsar", year: "2022" },
+    { id: 11, image: "226908.jpg", brand: "Yamahaa", model: "FZ", year: "2018" },
+    { id: 12, image: "226908.jpg", brand: "Hondaa", model: "CBR", year: "2021" },
+    { id: 13, image: "226908.jpg", brand: "Bajaaj", model: "Pulsar", year: "2022" },
   ]);
 
   const [showForm, setShowForm] = useState(false);
